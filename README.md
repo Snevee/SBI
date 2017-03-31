@@ -30,8 +30,7 @@ The Page title length of your page is 19 characters. Most search engines will tr
 </tr>
 <tr>
 <td>Robots.txt</td>
-<td>404- Page not Found.
-site use a "robots.txt" file: http://irctc.co.in/robots.txt</td>
+<td> Doe not use</td>
 </tr>
 <tr>
 <td>Inline Css Test</td>
