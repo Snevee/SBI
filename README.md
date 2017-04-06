@@ -1,16 +1,16 @@
 <html>
 <body>
 <b>State Bank Of India(SBI)</b>
-<h1> Details </h1>
 <table>
 <tr>
 <th> Tag </th>
 <th> Details</th>
+<th>Suggestions</th>
 </tr>
 <tr>
 <td>Page Title</td>
-<td>yes.
-The Page title length of your page is 19 characters. Most search engines will truncate Page title to 65 characters.</td>
+<td>
+The Page title length of the page is 19 characters.</td>
 </tr>
 <tr>
 <td>Admin Name</td>
@@ -18,7 +18,8 @@ The Page title length of your page is 19 characters. Most search engines will tr
 </tr>
 <tr>
 <td>Meta Description</td> 
-<td>Meta Description not Found : The meta description length of your page is 0 characters. Most search engines will truncate meta descriptions to 160 characters.</td>
+<td>Meta Description not Found </td>
+<td>
 </tr>
 <tr>
 <td>Meta Keywords</td>
