@@ -151,7 +151,7 @@ More Backlinks need to be used to increase the PR.</td>
 <tr>
 <td> SEO Grade </td>
 <td> <a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a> </td>
-</tr>
-</table>
+<tr/>
+<table/>
 <body/>
 <html/>
