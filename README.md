@@ -5,10 +5,12 @@
 </head>
 <marquee><u> SEO REPORT </u> </marquee> <p>
 <table>
+<tr>
 <th> Check </th>
 <th> Status </th>
 <th> Details</th>
 <th>Suggestions</th>
+</tr>
 <tr>
 <td>Page Title</td>
 <td>FOUND </td>
