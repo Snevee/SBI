@@ -13,7 +13,7 @@
 <td>Page Title</td>
 <td>FOUND </td>
 <td>The Page title length of the page is 19 characters.<p> Page title can be upto 65 characters.</td>
-<td>State Bank of India (SBI)-Public Sector Banking </td>
+<td>State Bank of India (SBI)-Public Sector Banking .</td>
 </tr>
 <tr>
 <td> Meta Description </td>
@@ -81,7 +81,8 @@ https://www.sbi.co.in//index-hindi-latest.htm </td>
 <td> SEO Friendly URL Test </td>
 <td> FOUND </td>
 <td>  8 internal urls found that are not seo friendly.</td>
-<td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-). <p> Underscores, upercase Alphabets and special characters (e-g: & ? %) are not seo friendly. </td>
+<td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-). <p> Underscores, upercase Alphabets and special characters (e-g: & ? %) are not seo friendly.
+</td>
 </tr>
 <tr>
 <td>Inline Css Test</td>
@@ -117,7 +118,8 @@ https://www.sbi.co.in//index-hindi-latest.htm </td>
 <td>GOOD</td>
 <td> 7 </td>
 <td> PageRank is a way of measuring the importance of website pages. <p>
-More Backlinks need to be used to increase the PR.</td>
+More Backlinks need to be used to increase the PR. 
+</td>
 </tr>
  <p>
 <tr>
