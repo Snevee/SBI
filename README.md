@@ -3,7 +3,6 @@
 <center><h1><u><font size=10 color="black">STATE BANK OF INFIA (SBI)</font></u></h1></center>
 <marquee><u> SEO REPORT </u> </marquee>
 <table>
-<table cellspacing=5>
 <tr>
 <th> Check </th>
 <th> Status </th>
@@ -90,29 +89,35 @@ https://www.sbi.co.in//index-hindi-latest.htm </td>
 <td> Website appears to have a favicon. </td>
 <td> It is a good to have a favicon in you website. </td>
 </tr>
-</tr>
 <tr>
 <td>HTML Page size</td>
-<td>14.71kb.</td>
+<td>OK</td>
+<td>14.71kb </td>
+<td> If the page size of the webpage is heavy then it will take more time to load.</td>
 </tr>
-<tr>
-<td>HTML Compression </td>
-<td>gzip compression
-Compressed from 90.81kb to 14.71kb</td>
-</tr>
-
 <tr>
 <td>Page Rank</td>
 <td>GOOD</td>
 <td> 7 </td>
 <td> PageRank is a way of measuring the importance of website pages. </td>
 </tr>
+</table>
+<table>
 <tr>
-<td>Age</td>
-<td>30-Oct-2002 19:05:33 UTC</td>
+<th> Domain Information </th>
 </tr>
-
-
+<tr>
+<td>Registration Date</td>
+<td>2002-10-30</td>
+</tr>
+<tr>
+<td>Expiration Date</td>
+<td>2019-10-30</td>
+</tr>
+<tr>
+<td>Updated Date</td>
+<td>2010-08-30</td>
+</tr>
 </table>
 <body/>
 <html/>
