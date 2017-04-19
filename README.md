@@ -116,7 +116,8 @@ https://www.sbi.co.in//index-hindi-latest.htm </td>
 <td>Page Rank</td>
 <td>GOOD</td>
 <td> 7 </td>
-<td> PageRank is a way of measuring the importance of website pages. </td>
+<td> PageRank is a way of measuring the importance of website pages. <p>
+More Backlinks need to be used to increase the PR.</td>
 </tr>
 </table>
 <table>
