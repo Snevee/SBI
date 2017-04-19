@@ -124,7 +124,8 @@ More Backlinks need to be used to increase the PR.</td>
 </table>
 <table>
 <tr>
-<th> Domain Information </th>
+<td><b> Domain Information</b> </td>
+<td> </td>
 </tr>
 <tr>
 <td>Domain</td>
