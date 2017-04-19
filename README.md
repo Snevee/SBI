@@ -3,13 +3,13 @@
 <head>
 <center><h1><u>STATE BANK OF INDIA (SBI)</u></h1></center>
 </head>
-<marquee><u> SEO REPORT </u> </marquee>
+<marquee><u> SEO REPORT </u> </marquee> <p>
 <table>
 <tr>
-<td> Check </td>
-<td> Status </td>
-<td> Details</td>
-<td>Suggestions</td>
+<th> Check </th>
+<th> Status </th>
+<th> Details</th>
+<th>Suggestions</th>
 </tr>
 <tr>
 <td>Page Title</td>
@@ -121,7 +121,7 @@ https://www.sbi.co.in//index-hindi-latest.htm </td>
 <td> PageRank is a way of measuring the importance of website pages. <p>
 More Backlinks need to be used to increase the PR.</td>
 </tr>
-</table>
+</table> <p>
 <table>
 <tr>
 <td><b> Domain Information</b> </td>
@@ -143,13 +143,13 @@ More Backlinks need to be used to increase the PR.</td>
 <td>Updated Date</td>
 <td>2010-08-30</td>
 </tr>
-</table>
+</table> <p>
 <table>
 <tr>
 <td> SEO Score </td>
 <td> 50 </td>
 </tr>
-</table>
+</table> <p>
 <table>
 <tr>
 <td> SEO Grade </td>
