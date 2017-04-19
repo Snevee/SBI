@@ -4,10 +4,10 @@
 <marquee><u> SEO REPORT </u> </marquee>
 <table>
 <tr>
-<th> Check </th>
-<th> Status </th>
-<th> Details</th>
-<th>Suggestions</th>
+<td> Check </td>
+<td> Status </td>
+<td> Details</td>
+<td>Suggestions</td>
 </tr>
 <tr>
 <td>Page Title</td>
@@ -72,7 +72,7 @@ This can be replaced by : <p>
 https://www.sbi.co.in//index-hindi-latest.htm </td>
 </tr>
 <tr>
-<td> SEO Friendly URL Test <td>
+<td> SEO Friendly URL Test </td>
 <td> FOUND </td>
 <td>  8 internal urls found that are not seo friendly.</td>
 <td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-). <p> Underscores, upercase Alphabets and special characters (e-g: & ? %) are not seo friendly. </td>
