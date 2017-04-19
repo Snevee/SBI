@@ -119,8 +119,7 @@ https://www.sbi.co.in//index-hindi-latest.htm </td>
 <td> PageRank is a way of measuring the importance of website pages. <p>
 More Backlinks need to be used to increase the PR.</td>
 </tr>
-</table> <p>
-
+ <p>
 <tr>
 <td><b> Domain Information</b> </td>
 <td> </td>
@@ -141,7 +140,7 @@ More Backlinks need to be used to increase the PR.</td>
 <td>Updated Date</td>
 <td>2010-08-30</td>
 </tr>
-</table> <p>
+ <p>
 
 <tr>
 <td> SEO Score </td>
@@ -153,6 +152,6 @@ More Backlinks need to be used to increase the PR.</td>
 <td> SEO Grade </td>
 <td> <a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a> </td>
 </tr>
-
+</table>
 <body/>
 <html/>
