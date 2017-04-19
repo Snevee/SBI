@@ -36,13 +36,6 @@ Meta Descriptions can be upto 160 characters.</td>
 Keywords such as <b> sbi net banking</b>, <b>sbi card</b>, <b>sbi online net banking login</b> can be used. </td> 
 </tr>
 <tr>
-<td>Google Search Results Preview</td>
-<td>-Info- </td>
-<td>Right to Information.</td>
-<td><a href="http://rti.gov.in/"><b>SEARCH</b></a>
-        </td>
-</tr>
-<tr>
 <td> h1 Headings </td>
 <td>NOT FOUND </td>
 <td>No H1 headings found<br>
