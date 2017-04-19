@@ -50,6 +50,12 @@ Keywords such as <b> sbi net banking</b>, <b>sbi card</b>, <b>sbi online net ban
 Web site owners use the /robots.txt file to give instructions about their site to web robots. It tells the robot that it should not visit any pages on the site.</td>
 </tr>
 <tr>
+<td> Image Alt Test </td>
+<td>NOT FOUND </td>
+<td>Out of 23 'img' tags and 19 of them  are missing the required 'alt' attribute.</td>
+<td>It helps search engines understand what an image is about. Alternate text is also very helpful in case images on a page cannot be found. </td>
+</tr>
+<tr>
 <td> Sitemap Test </td>
 <td> FOUND </td>
 <td> One sitemap is found in the website.<p>
@@ -92,9 +98,20 @@ https://www.sbi.co.in//index-hindi-latest.htm </td>
 <tr>
 <td>HTML Page size</td>
 <td>OK</td>
-<td>14.71kb </td>
+<td>14.83kb </td>
 <td> If the page size of the webpage is heavy then it will take more time to load.</td>
 </tr>
+<tr>
+<td> HTML Compression test </td>
+<td> SUCCESSFULLY COMPRESSED </td>
+<td>  It is compressed from 93.77 Kb to 14.83 Kb </td>
+<td>t helps ensure a faster loading web page and improved user experience. </td>
+</tr>
+<tr>
+<td> Redirection Test </td>
+<td> NOT FOUND </td>
+<td> website does not directs www.sbi.co.in and sbi.co.in to the same URL. </td>
+<td>  Redirection help you maintain your existing search engine rankings so you do not lose traffic after the transition to another URL. </td>
 <tr>
 <td>Page Rank</td>
 <td>GOOD</td>
