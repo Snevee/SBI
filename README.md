@@ -1,6 +1,8 @@
 <html>
 <body>
-<center><h1><u><font size=10 color="black">STATE BANK OF INFIA (SBI)</font></u></h1></center>
+<head>
+<center><h1><u>STATE BANK OF INDIA (SBI)</u></h1></center>
+</head>
 <marquee><u> SEO REPORT </u> </marquee>
 <table>
 <tr>
