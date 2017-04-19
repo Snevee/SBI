@@ -5,12 +5,10 @@
 </head>
 <marquee><u> SEO REPORT </u> </marquee> <p>
 <table>
-<tr>
 <th> Check </th>
 <th> Status </th>
 <th> Details</th>
 <th>Suggestions</th>
-</tr>
 <tr>
 <td>Page Title</td>
 <td>FOUND </td>
@@ -122,7 +120,7 @@ https://www.sbi.co.in//index-hindi-latest.htm </td>
 More Backlinks need to be used to increase the PR.</td>
 </tr>
 </table> <p>
-<table>
+
 <tr>
 <td><b> Domain Information</b> </td>
 <td> </td>
