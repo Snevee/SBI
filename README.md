@@ -24,8 +24,8 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <tr>
 <td>Meta Description</td> 
 <td>NOT FOUND </td>
-<td>The meta description length of this page 0 characters.</td>
-<td>Most search engines will truncate meta descriptions to 160 characters.</td>
+<td>The meta description length of this page 0 characters.<p>
+Meta Descriptions can be upto 160 characters.</td>
 <td>State Bank of India (SBI)-Public Sector Banking.</td>
 </tr>
 <tr>
