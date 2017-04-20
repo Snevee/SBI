@@ -18,21 +18,20 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <tr>
 <td>Page Title</td>
 <td>FOUND</td>
-<td>The Page title length of your page is 19 characters.</td>
-<td>Page title can be upto 65 characters.</td>
+<td>The Page title length of your page is 19 characters. Page title can be upto 65 characters.</td>
+<td> State Bank of India (SBI)- Public Sector Banking.</td>
 </tr>
 <tr>
 <td>Meta Description</td> 
 <td>NOT FOUND </td>
-<td>The meta description length of this page 0 characters.<p>
-Meta Descriptions can be upto 160 characters.</td>
-<td>State Bank of India (SBI)-Public Sector Banking.</td>
+<td>The meta description length of this page 0 characters.</td>
+<td>Meta Descriptions can be upto 160 characters.</td>
 </tr>
 <tr>
 <td>Meta Keywords</td>
 <td>NOT FOUND </td>
 <td>Meta Keywords not found.</td> 
-<td>Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<p>
+<td>Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<br>
 Keywords such as <b> sbi net banking</b>, <b>sbi card</b>, <b>sbi online net banking login</b> can be used. </td> 
 </tr>
 <tr>
@@ -52,7 +51,7 @@ Keywords such as <b> sbi net banking</b>, <b>sbi card</b>, <b>sbi online net ban
 <td>Robots.txt</td>
 <td>Not Found</td>
 <td>This site does not use robots.txt</td>
-<td>Robots.txt is a text file webmasters create to instruct robots (typically search engine robots) how to crawl and index pages on their website.<p>
+<td>Robots.txt is a text file webmasters create to instruct robots (typically search engine robots) how to crawl and index pages on their website.<br>
 Web site owners use the /robots.txt file to give instructions about their site to web robots. It tells the robot that it should not visit any pages on the site.</td>
 </tr>
 <tr>
