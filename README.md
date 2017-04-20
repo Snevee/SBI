@@ -32,7 +32,7 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <td>NOT FOUND </td>
 <td>Meta Keywords not found.</td> 
 <td>Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<br>
-Keywords such as <b> sbi net banking</b>, <b>sbi card</b>, <b>sbi online net banking login</b> can be used. </td> 
+Keywords such as <b> sbi net banking</b>, <b>sbi card</b>, <b>sbi online net banking login</b> can be used.</td> 
 </tr>
 <tr>
 <td> h1 Headings </td>
@@ -83,8 +83,8 @@ Web site owners use the /robots.txt file to give instructions about their site t
 <td>FOUND </td>
 <td>7 underscore links were found in the webpage</td>
 <td>Hyphens should be used instead of underscores.<p>
-Eg : https://www.sbi.co.in//index-hindi_latest.htm <p>
-This can be replaced by : <p>
+Eg : https://www.sbi.co.in//index-hindi_latest.htm <br>
+This can be replaced by : <br>
 https://www.sbi.co.in//index-hindi-latest.htm</td>
 </tr>
 <tr>
